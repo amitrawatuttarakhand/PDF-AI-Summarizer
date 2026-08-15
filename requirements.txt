@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+langchain>=0.0.350
+langchain-openai>=0.1.0
+langchain-groq>=0.1.0
+langchain-text-splitters>=0.0.1
+groq>=0.4.0pip install langchain-groq langchain-core
+python-dotenv>=1.0.0
+PyPDF2>=3.0.1
+pandas>=2.0.0
+tiktoken>=0.5.0
