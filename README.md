@@ -7,7 +7,7 @@ A fast, interactive Streamlit web application that summarizes PDF documents usin
  ✨ Features
 
 * **📄 PDF Text Extraction:** Fast extraction using `pypdf`.
-* **⚡ Ultra-Fast AI Summaries:** 
+* **⚡ Ultra-Fast AI Summaries:** Powered by Groq
 * **🎯 Multiple Formats:** Concise, Detailed, and Bullet Points with optional custom instructions.
 * **📊 Document Metrics:** Real-time word, character, and read-time statistics.
 * **📥 Export:** Download generated summaries as `.txt` files.
