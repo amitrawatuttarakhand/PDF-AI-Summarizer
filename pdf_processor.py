@@ -1,7 +1,7 @@
 import os
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
-import PyPDF2
+import pypdf
 
 class PDFSummarizer:
     def __init__(self, groq_api_key=None):
